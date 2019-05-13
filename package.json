@@ -1,6 +1,10 @@
 {
   "author": "Florian Keller <github@floriankeller.de>",
-  "dependencies": {},
+  "dependencies": {
+    "csv-parse": "4.4.1",
+    "logdown": "3.2.8",
+    "splitwise": "1.0.0"
+  },
   "description": "Import CSV to splitwise",
   "devDependencies": {
     "@ffflorian/prettier-config": "0.0.3",
