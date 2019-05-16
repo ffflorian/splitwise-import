@@ -35,10 +35,10 @@
   resolved "https://registry.yarnpkg.com/@ffflorian/tslint-config/-/tslint-config-0.2.0.tgz#1d2286224f1f1669f77333913f711fc21d984e74"
   integrity sha512-NkBUze6rNukqFaD3+8Bw5n41WD788gUHRnIPxCePlJzJFQAPgf2hUEFgrdlwm1KI1szLCMWZ26etzLzik4q5KQ==
 
-"@ffflorian/typescript-config@0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@ffflorian/typescript-config/-/typescript-config-0.1.0.tgz#4ddd93c596b45235553c6af30ffb8f5b87668b15"
-  integrity sha512-hAWGK9s63AUjZFHNwT+QGXzeR0JUwD5uW03ZZsvXcBlDzCGzvU5XwZwRDnK6AYT8tWvQ9QWjmQhCwngFrR+q3w==
+"@ffflorian/typescript-config@0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@ffflorian/typescript-config/-/typescript-config-0.1.1.tgz#c4d8c030e1f60e83a784ce55de6a280b87af871f"
+  integrity sha512-RKKtbfq0qoiNo7Ht8Pxsej00fDRDXCL3xkNAUJgBW9wu3Dz1L4xPIGRvlDLEj2UflhuTJbICe5l3SNfBsXQJvA==
 
 "@samverschueren/stream-to-observable@^0.3.0":
   version "0.3.0"
