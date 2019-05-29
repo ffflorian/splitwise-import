@@ -57,6 +57,7 @@ export class SplitwiseImporter {
     await this.checkUsers(options.userMap);
     const resolvedPath = path.resolve(csvFile);
     const parser = new CSVParser({});
+
     fs.createReadStream(resolvedPath)
       .pipe(parser)
       .on('data', console.log)
