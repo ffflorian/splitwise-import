@@ -1,11 +1,21 @@
 {
   "author": "Florian Keller <github@floriankeller.de>",
-  "dependencies": {},
+  "bin": {
+    "csv-splitwise": "dist/cli.js"
+  },
+  "dependencies": {
+    "cli-interact": "0.1.9",
+    "commander": "2.20.0",
+    "csv-parse": "4.4.1",
+    "logdown": "3.2.8",
+    "splitwise": "1.0.0"
+  },
   "description": "Import CSV to splitwise",
   "devDependencies": {
     "@ffflorian/prettier-config": "0.0.5",
     "@ffflorian/tslint-config": "0.7.0",
     "@ffflorian/typescript-config": "1.0.0",
+    "@types/cli-interact": "0.1.0",
     "@types/node": "~12",
     "husky": "3.0.5",
     "lint-staged": "9.2.5",
