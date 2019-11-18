@@ -7,7 +7,7 @@
     "@ffflorian/tslint-config": "0.7.0",
     "@ffflorian/typescript-config": "1.0.0",
     "@types/node": "~12",
-    "husky": "3.0.9",
+    "husky": "3.1.0",
     "lint-staged": "9.4.3",
     "prettier": "1.19.1",
     "rimraf": "3.0.0",
