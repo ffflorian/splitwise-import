@@ -3,7 +3,7 @@
   "dependencies": {},
   "description": "Import CSV to splitwise",
   "devDependencies": {
-    "@ffflorian/prettier-config": "0.0.5",
+    "@ffflorian/prettier-config": "0.0.6",
     "@ffflorian/tslint-config": "0.7.0",
     "@ffflorian/typescript-config": "1.0.1",
     "@types/node": "~12",
