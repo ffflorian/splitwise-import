@@ -28,10 +28,10 @@
   resolved "https://registry.npmjs.org/@ffflorian/tslint-config/-/tslint-config-0.7.0.tgz#1db6da16e17382e6b27e346dc4c699ba01112c2a"
   integrity sha512-mMeU+i7EHh+d8JvvpSIxEA2Tl/l/6ylfpYBoCCFnQ09mrMIQCIlbLcvWgut/I9Nz0/MsiHd2gxC4xDAJLOwskw==
 
-"@ffflorian/typescript-config@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@ffflorian/typescript-config/-/typescript-config-1.0.0.tgz#54ec68410faad4f8e5408135f9d1b1c5681b9696"
-  integrity sha512-ThNKq3i1GxkuPVEg9hc9RgyZV1O090kEgU1FMK4FYVvrGt4GADDgYOn3HCssTXQ/f1mONC5mr5/ZVea+jQ60KA==
+"@ffflorian/typescript-config@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/@ffflorian/typescript-config/-/typescript-config-1.0.1.tgz#82bd3c2004d02486eb68a796b6d4953aca1d25d3"
+  integrity sha512-K3OrkSPNi2h3ynrkeqLWF7nUjARg9TERu4NZjWEfLgqfv0WeZJocMvSfEDkMAmm24zkF0zJidZzVmjBBY50Ydw==
 
 "@nodelib/fs.scandir@2.1.1":
   version "2.1.1"
